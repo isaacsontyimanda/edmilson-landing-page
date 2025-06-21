@@ -31,6 +31,11 @@ img {
     margin: 2.1rem auto;
 }
 
+.svg {
+    border: none;
+    margin: 8px auto;
+}
+
 h1 {
     font-family: 'Merienda', cursive;
     font-weight: normal;
@@ -70,6 +75,7 @@ a.a {
     text-align: center;
     color: #F4A332;
     border: 2px solid #F4A332;
+    box-shadow: 0 2px 6px rgba(39, 33, 33, 0.5);
     padding: 10px 20px;
     border-radius: 100px;
 }
